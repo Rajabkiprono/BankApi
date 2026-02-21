@@ -44,6 +44,4 @@ public class Account {
     protected void onCreate() {
         createdAt = LocalDateTime.now();
     }
-} {
-   
 }
