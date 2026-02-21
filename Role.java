@@ -1,4 +1,4 @@
-package com.example.bankingapi.model;
+package com.example.demo.model;
 
 public enum Role {
     USER,
@@ -6,3 +6,4 @@ public enum Role {
 } {
    
 }
+
