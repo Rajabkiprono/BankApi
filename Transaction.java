@@ -44,6 +44,5 @@ public class Transaction {
     protected void onCreate() {
         timestamp = LocalDateTime.now();
     }
-} {
-   
 }
+
